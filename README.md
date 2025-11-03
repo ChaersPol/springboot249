@@ -11,7 +11,7 @@
 
 ## 3000套系统可挑选，获取链接：https://www.bishecode.com/
 
-![alt text](images/cab672447ccac30929332c58193421d2.png)
+![alt text](images/cab672447ccac30929332c58193421d2-1.png)
 
 <hr>
 
@@ -98,6 +98,6 @@ Java语言具有跨平台性，本系统主要通过Java语言进行编码实现
 
 ## 3000套系统可挑选，获取链接：https://www.bishecode.com/
 
-![alt text](images/cab672447ccac30929332c58193421d2.png)
+![alt text](images/cab672447ccac30929332c58193421d2-1.png)
 
 <hr>
